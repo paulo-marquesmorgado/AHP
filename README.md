@@ -1,8 +1,6 @@
 # Analytic Hierarchy Process (AHP) Analysis
-# Analytic Hierarchy Process (AHP) Analysis - Criteria
 
 ## Disclaimer
-
 ### Purpose and Limitations
 
 This notebook demonstrates the implementation of the Analytic Hierarchy Process (AHP) for assessing leadership styles. It is intended for educational purposes only and should not be considered a definitive guide for real-world decision-making.
